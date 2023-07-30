@@ -19,7 +19,7 @@ amplify init
 ```
 The correct initialization is shown below. Remember, to select the appropriate editor, and to choose the method of authentication through AWS access keys
 
-[amplify initialization](images/init_1.PNG)
+![amplify initialization](images/init_1.PNG)
 
 To obtain an access key, log in to AWS IAM, select your user and follow the instructions below
 
